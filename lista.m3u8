@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="Latina"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png"group-title="General",Latina
+#EXTINF:-1 tvg-name=""tvg-id="Latina"tvg-logo="https://i.imgur.com/MOsWriY.png"group-title="General",Latina
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Latina.pe@SD"tvg-logo="https://i.imgur.com/MOsWriY.png"group-title="General",Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
